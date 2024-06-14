@@ -1,5 +1,6 @@
 /* eslint-disable no-param-reassign */
 /* eslint-disable class-methods-use-this */
+/* eslint-disable eol-last */
 export default class Collapse {
   constructor(parentEl) {
     this.parentEl = parentEl;
